@@ -1,5 +1,6 @@
 {
     "name": "wby/php-rbac",
+    "version" : "0.0.5",
     "description": "RBAC SDK",
     "type": "library",
     "keywords": ["rbac", "sdk"],
